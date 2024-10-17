@@ -2,7 +2,7 @@
 
 This is a simple demo project using Spring Boot with MySQL to demonstrate basic CRUD operations.
 
-# Features
+ <h2>Features</h2> 
 
 Create, Read, Update, and Delete operations for an entity.
 REST API endpoints using Spring MVC.
